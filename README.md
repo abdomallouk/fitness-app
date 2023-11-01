@@ -6,7 +6,7 @@ Welcome to the Fitness App, a platform for exploring exercises, saving your favo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fitness-app.git
+   git clone https://github.com/abdomallouk/fitness-app.git
    ```
 
 2. **Install dependencies:**
